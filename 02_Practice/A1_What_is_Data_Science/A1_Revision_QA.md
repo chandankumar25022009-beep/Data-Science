@@ -168,7 +168,7 @@
 - Variable = Stores a value
 - List = Stores multiple values
 - Loop = Repeats code
-- Condition = Checks whether something is true or false
+- Condition = Checks whether something is true or falses
 - Pattern = Meaningful relationship in data
 - Trend = Direction of change in data
 - Data Cleaning = Fixing data problems
