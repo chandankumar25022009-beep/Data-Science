@@ -140,4 +140,5 @@ A Data Scientist collects, cleans, analyzes, and interprets data using programmi
 
 ## 8. Key Point
 
-A Data Scientist turns data into useful insights and predictions that can help solve real-world problems.
+A Data Scienticlear
+st turns data into useful insights and predictions that can help solve real-world problems.
