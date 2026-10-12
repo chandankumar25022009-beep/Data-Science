@@ -152,4 +152,4 @@ Possible bias
 Legal and ethical use
 Key Learning
 
-Good Data Collection provides reliable and useful data for Data Analysis and Machine Learning.
+Good Data Collection provides reliable and useful data for Data Analysis and Machine Learning.s
